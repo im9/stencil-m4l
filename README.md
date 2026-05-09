@@ -18,7 +18,10 @@ Download the latest `Stencil.amxd` from
 
 ## Requirements
 
-- Ableton Live 11 or later, with Max for Live.
+- Ableton Live 12 or later, with Max for Live. (Live 11 technically
+  has node.script but Cycling74 advises against it for production
+  use; Live 12 ships Max 9.1.4 with Node 20, which is the supported
+  floor.)
 
 ## What it does
 
